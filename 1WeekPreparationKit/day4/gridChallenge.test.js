@@ -1,6 +1,6 @@
 import { gridChallenge } from "./gridChallenge";
 
-describe("Test suite for gridchallenge code challenge", () => {
+describe("Test suite for the gridchallenge code challenge", () => {
   test("The function should return YES if the rearranged grid's columns are ordered alphabetically or NO if not", () => {
     const testArray = ["cba", "aed", "efg"];
     const testArray2 = ["eabcd", "fghij", "olkmn", "trpqs", "xywuv"];
