@@ -39,6 +39,6 @@ const gridChallenge = (grid) => {
   return "YES";
 };
 
-module.exports = { gridChallenge };
+export { gridChallenge };
 // const grid = ["cba", "aed", "efg"];
 // console.log(gridChallenge(grid));

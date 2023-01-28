@@ -14,4 +14,4 @@ const truckTour = (petrolpumps) => {
   return r;
 };
 
-export default truckTour;
+export { truckTour };

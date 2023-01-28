@@ -15,4 +15,4 @@ const findMedian = (arr) => {
   return sortedArr[Math.floor(arr.length / 2)];
 };
 
-module.exports = { findMedian };
+export { findMedian };

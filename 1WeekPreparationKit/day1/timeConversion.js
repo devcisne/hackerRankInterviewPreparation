@@ -27,4 +27,4 @@ const timeConversion = (s) => {
   }
 };
 
-module.exports = { timeConversion };
+export { timeConversion };

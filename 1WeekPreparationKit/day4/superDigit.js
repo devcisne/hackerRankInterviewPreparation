@@ -59,4 +59,4 @@ const superDigit = (n, k) => {
   return superDigit(sum, 0);
 };
 
-module.exports = { superDigit };
+export { superDigit };

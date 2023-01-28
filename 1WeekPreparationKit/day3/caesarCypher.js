@@ -41,4 +41,4 @@ const caesarCipher = (s, k) => {
   //   console.log(outputString);
 };
 
-module.exports = { caesarCipher };
+export { caesarCipher };

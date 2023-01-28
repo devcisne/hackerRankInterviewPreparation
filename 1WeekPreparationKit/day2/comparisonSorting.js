@@ -31,4 +31,4 @@ const countingSort = (arr) => {
   return a;
 };
 
-module.exports = { countingSort };
+export { countingSort };

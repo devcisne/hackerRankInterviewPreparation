@@ -27,4 +27,4 @@ function lonelyinteger(a) {
 
 */
 
-module.exports = { lonelyInteger };
+export { lonelyInteger };

@@ -24,4 +24,4 @@ const palindromeIndex = (s) => {
   return -1;
 };
 
-module.exports = { palindromeIndex };
+export { palindromeIndex };

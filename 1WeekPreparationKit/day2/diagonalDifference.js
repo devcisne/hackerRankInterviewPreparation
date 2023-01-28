@@ -23,4 +23,4 @@ const diagonalDifference = (array) => {
   return Math.abs(lToR - rToL);
 };
 
-module.exports = { diagonalDifference };
+export { diagonalDifference };

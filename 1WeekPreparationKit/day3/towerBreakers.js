@@ -37,4 +37,4 @@ const towerBreakers = (n, m) => {
   }
 };
 
-module.exports = { towerBreakers };
+export { towerBreakers };

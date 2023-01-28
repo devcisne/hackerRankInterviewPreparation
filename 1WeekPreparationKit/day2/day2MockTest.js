@@ -16,6 +16,5 @@ const flippingMatrix = (matrix) => {
   }
   return total;
 };
-
-module.exports = { flippingMatrix };
+export { flippingMatrix };
 // console.log(flippingMatrix(inputMatrix));

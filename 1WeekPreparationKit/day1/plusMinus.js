@@ -24,5 +24,4 @@ const plusMinus = (arr) => {
   console.log(negativeRatio);
   console.log(zeroRatio);
 };
-
-module.exports = { plusMinus };
+export { plusMinus };

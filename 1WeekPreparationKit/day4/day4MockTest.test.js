@@ -1,4 +1,4 @@
-import truckTour from "./day4MockTest";
+import { truckTour } from "./day4MockTest";
 
 describe("truckTour", () => {
   test("returns the starting point of the tour that allows the truck to complete the circle", () => {

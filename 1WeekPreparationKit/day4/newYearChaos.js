@@ -45,4 +45,4 @@ const minimumBribes = (q) => {
   console.log(tooCha ? "Too chaotic" : bribes.toString());
 };
 
-module.exports = { minimumBribes };
+export { minimumBribes };

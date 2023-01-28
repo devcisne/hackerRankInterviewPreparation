@@ -18,4 +18,4 @@ const miniMaxSum = (arr) => {
   console.log(`${totalSum - maxValue} ${totalSum - minValue}`);
 };
 
-module.exports = { miniMaxSum };
+export { miniMaxSum };
