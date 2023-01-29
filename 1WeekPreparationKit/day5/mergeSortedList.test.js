@@ -1,5 +1,5 @@
 import { mergeLists, SinglyLinkedList } from "./mergeSortedList";
-describe("mergeLists", () => {
+describe("Test suite for the merge sorted lists code challenge", () => {
   test("merges two lists with one list being empty", () => {
     const list1 = new SinglyLinkedList();
     list1.insertNode(1);
