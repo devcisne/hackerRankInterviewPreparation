@@ -1,6 +1,6 @@
 import { bfs } from "./day6MockTest";
 
-describe("bfs", () => {
+describe("Test suite for the day 6 mock exam", () => {
   it("should return the correct distances from start node for a simple graph", () => {
     const n = 4;
     const m = 4;
